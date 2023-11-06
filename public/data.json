@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "serviceType": "Venue",
+      "serviceName": "Elegant Gardens",
+      "price": "$5000",
+      "description": "A picturesque outdoor venue with lush greenery and a serene ambiance, perfect for wedding ceremonies and receptions.",
+      "image": "https://i.ibb.co/jvKq4P9/photographer.png"
+    },
+    {
+      "id": 2,
+      "serviceType": "Catering",
+      "serviceName": "Gourmet Delights",
+      "price": "$8000",
+      "description": "Exquisite catering services offering a diverse menu of delectable dishes, customized to suit your taste and dietary preferences.",
+      "image": "https://i.ibb.co/r4drWN8/catering.png"
+    },
+    {
+      "id": 3,
+      "serviceType": "Photography",
+      "serviceName": "Capture Moments",
+      "price": "$3000",
+      "description": "Professional photography services capturing every precious moment of your wedding day, from candid shots to formal portraits.",
+      "image": "https://i.ibb.co/jvKq4P9/photographer.png"
+    },
+    {
+      "id": 4,
+      "serviceType": "Decor & Floral",
+      "serviceName": "Enchanted Blooms",
+      "price": "$4000",
+      "description": "Transform your venue with exquisite floral arrangements and elegant decor, creating a magical atmosphere for your wedding.",
+      "image": "https://i.ibb.co/vwSnsNh/flowers.png"
+    },
+    {
+      "id": 5,
+      "serviceType": "Entertainment",
+      "serviceName": "Harmony Entertainment",
+      "price": "$2500",
+      "description": "Live music bands, DJs, and performers to entertain your guests, ensuring a lively and enjoyable atmosphere throughout the event.",
+      "image": "https://i.ibb.co/587zY38/entertainment.png"
+    },
+    {
+      "id": 6,
+      "serviceType": "Transportation",
+      "serviceName": "Royal Wheels",
+      "price": "$3500",
+      "description": "Luxurious transportation services for the bridal party and guests, ensuring a smooth and stylish arrival at the venue.",
+      "image": "https://i.ibb.co/jvKq4P9/photographer.png"
+    }
+  ]
+  
